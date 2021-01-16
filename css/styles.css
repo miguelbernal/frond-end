@@ -1,0 +1,18 @@
+/*
+    selector{
+        atributo: valor;
+    }
+*/
+body{
+   margin: 0;
+   padding: 0;
+   background-image: url(https://s1.eestatic.com/2020/02/10/como/Agua-Vacunas-Infecciones-Perros-Alimentacion-Bebes-Como_hacer_466466419_144847069_864x486.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+h1{
+    position: absolute;
+    bottom: 0;
+    background-color: red;
+    color: white;
+}
