@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularios</title>
+</head>
+<body>
+    <form action="guardar.php" target="_blank">
+        <fieldset>
+            <legend>Datos Personales</legend>
+            <label for="nombre">Nombre y Apellido</label>
+            <input id="nombre" name="nombre" type="text" placeholder="Introduce tu nombre" autofocus />
+            <br/>
+            <label for="telefono">Telefono</label>
+            <input id="telefono" name="telefono" type="tel" placeholder="Introduce tu teléfono" />
+        </fieldset>
+        <br/>
+        <label for="nacimiento">Fecha de nacimiento</label>
+        <input id="nacimiento" name="nacimiento" type="date" value="2021-01-30" />
+        <br/>
+        <label for="estudia1"">Estudia</label>
+        <input id="estudia1" name="estudia1" type="checkbox" /> <label for="estudia1">Computación</label>
+        <input id="estudia2" name="estudia2" type="checkbox" /> <label for="estudia2">Diseño</label>
+        <br/>
+        <label for="lenguaje1"">Lenguajes</label>
+        <input id="lenguaje1" name="lenguajes" type="radio" /> <label for="lenguaje1">HTML</label>
+        <input id="lenguaje2" name="lenguajes" type="radio" /> <label for="lenguaje2">CSS</label>
+        <input id="lenguaje3" name="lenguajes" type="radio" /> <label for="lenguaje3">JAVASCRIPT</label>
+        <br/>
+        <label for="color">Color preferido</label>
+        <input id="color" name="color" type="color" />
+        <br/>
+        <label for="foto">Foto</label>
+        <input id="foto" name="foto" type="file" multiple />
+        <br/>
+        <label for="oculto">Oculto</label>
+        <input id="oculto" name="foto" type="hidden" />
+        <br/>
+        <label for="image">Oculto</label>
+        <input id="image" name="foto" type="image" width="50" src="https://www.telitec.com/wp-content/uploads/2020/06/412-4124554_google-home-logo-png-google-home-app-logo.jpg" />
+        <br/>
+        <label for="edad">Edad</label>
+        <input id="edad" name="edad" type="number" />
+        <hr/>
+        <label for="clave">Contraseña</label>
+        <input id="clave" name="clave" type="password" />
+        <br/>
+        <label for="estudios">Estudios</label>
+        <select id="estudios" name="estudios">
+            <option value="primarios">Primarios</option>
+            <option value="secundarios">Secundarios</option>
+            <option value="terciarios">Terciarios</option>
+        </select>
+        <br/>
+        <label for="observaciones">Observaciones</label>
+        <textarea id="observaciones" name="observaciones" placeholder="Sus observaciones"></textarea>
+        <br/>
+        <input type="button" value="Validar">
+        <input type="submit" value="Enviar">
+        <input type="reset" value="Reset">
+    </form>
+</body>
+</html>
