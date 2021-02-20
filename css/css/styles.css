@@ -79,6 +79,7 @@ li a{
 li a:hover{
     background-color: #111;
     color: white;
+    transition: .4s;
 }
 
 .activo{
@@ -100,3 +101,54 @@ article{
 section img{
     width: 250px;
 }
+
+/* accordion */
+
+.accordion{
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: .4s;
+}
+
+.accordion:hover{
+    background-color: #ccc;
+}
+
+.panel{
+    padding: 0 18px;
+    background-color: white;
+    overflow: hidden;
+}
+
+/* footer */
+footer{
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: .4s;
+}
+
+footer:hover{
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
