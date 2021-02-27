@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=W6GTDfrWjXs&t=14s
 https://www.youtube.com/watch?v=RqQ1d1qEWlE
 
 https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
+
+### BOOTSTRAP
+https://www.youtube.com/watch?v=1kNwZbRiVcQ&t=2759s
