@@ -19,3 +19,8 @@ https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-Ko
 
 ### BOOTSTRAP
 https://www.youtube.com/watch?v=1kNwZbRiVcQ&t=2759s
+
+### GIMP
+https://www.gimp.org/
+
+https://www.youtube.com/watch?v=uX3QieANqxc&t=3750s
