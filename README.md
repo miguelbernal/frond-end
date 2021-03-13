@@ -24,3 +24,8 @@ https://www.youtube.com/watch?v=1kNwZbRiVcQ&t=2759s
 https://www.gimp.org/
 
 https://www.youtube.com/watch?v=uX3QieANqxc&t=3750s
+
+### JAVASCRIPT
+https://www.youtube.com/watch?v=2SetvwBV-SU&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA
+
+https://www.youtube.com/watch?v=RqQ1d1qEWlE&t=1s
